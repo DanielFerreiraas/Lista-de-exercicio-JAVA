@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Exercicio5 {
     public static void main(String[] args){
 
-        Scanner input = new Scanner(System.in);
         int anoAtual, dataNascimento, idade;
+        Scanner input = new Scanner(System.in);
 
         System.out.print("Digite o ano atual: ");
         anoAtual = input.nextInt();
