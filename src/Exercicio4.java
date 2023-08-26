@@ -4,13 +4,13 @@ public class Exercicio4 {
 
     public static void main(String[] args){
 
-        System.out.print("Digite a nota da primeira prova: ");
         Scanner input = new Scanner(System.in);
+
+        System.out.print("Digite a nota da primeira prova: ");
         float primeiraNota = input.nextFloat();
 
         System.out.print("Digite a nota da segunda prova: ");
-        Scanner input2 = new Scanner(System.in);
-        float segundaNota = input2.nextFloat();
+        float segundaNota = input.nextFloat();
 
         float media = (primeiraNota + segundaNota)/2;
 

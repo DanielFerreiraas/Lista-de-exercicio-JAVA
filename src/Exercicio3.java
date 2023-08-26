@@ -4,8 +4,9 @@ public class Exercicio3 {
 
     public static void main(String[] args){
 
-        System.out.print("Digite a quantidade de maçãs: ");
         Scanner input = new Scanner(System.in);
+
+        System.out.print("Digite a quantidade de maçãs: ");
         int quantidadeDeMacas = input.nextInt();
 
         if(quantidadeDeMacas < 12){
