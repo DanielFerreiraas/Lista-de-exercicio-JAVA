@@ -1,3 +1,5 @@
+package lista1_condicionais;
+
 import java.util.Scanner;
 
 public class Exercicio4 {
