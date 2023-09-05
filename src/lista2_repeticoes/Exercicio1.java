@@ -20,5 +20,4 @@ public class Exercicio1 {
 
         input.close();
     }
-
 }

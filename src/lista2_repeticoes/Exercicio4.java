@@ -27,5 +27,4 @@ public class Exercicio4 {
 
         input.close();
     }
-
 }
